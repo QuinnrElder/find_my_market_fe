@@ -3,7 +3,7 @@
 
 # Summary
 
-Find My Market, is a mobile-first (IOS) geolocation app that was designed, planned and implemented around finding farmers markets within a 50 mile radius from your location. The user can click on markers on a map and view more information about that particular market, including address, season information, and a link to the website. The user can also filter by products! Additionally, the user can search for a different location and view markets in that area.
+Find My Market, is a mobile-first (IOS) geolocation app that was designed, planned, and implemented around finding farmers markets within a 50-mile radius from your location. By allowing a user to register a new account or sign in, the user can click on a marker on the map and view more information about that particular market. This information includes address, season information, and a link to the farmers' market website, not to mention the ability to favorite that specific market for future access. The user can also filter by-products, date, and favorite markets. Additionally, the user can search for a different location and view markets in that area, which makes this app like no other on the market! For the final touch, a user can access their profile information through the hamburger menu. This functionality allows the user to view their favorite markets within a list view, add a profile image, and update and change their current login information.
 
 You can learn more about the back end [here](https://github.com/tylerpporter/find_my_market_api) and view the api repo [here](https://github.com/tylerpporter/us_farmers_market_api).
 
